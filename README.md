@@ -11,10 +11,12 @@ How to use This Tool in App Termux ..
 
 4-cd pkg.Termux
 
-5-chmod +X *
+5-ls
 
-6-ls
+6-chmod +X *
 
-7-bash mstech.sh
+7-ls
 
-8-Leave the tool for a while until you download and install, then it will tell you when it is finished, You can then install any tool you want and you won't face any problem
+8-bash mstech.sh
+
+9-Leave the tool for a while until you download and install, then it will tell you when it is finished, You can then install any tool you want and you won't face any problem
