@@ -32,7 +32,6 @@ pkg install perl
 pkg install ruby
 pkg install wget
 git clone https://github.com/MFDGaming/ubuntu-in-termux
-cd ~
 printf "\e[1;36m Termux Install Finished .. you can following more in my Channel and pages (MS TECH) 
 
 My account is on Reddit:
@@ -53,4 +52,5 @@ FB.com/mahmoud.safwat0
 Tool By Mahmoud Safwat
 
 Thank You "
+cd ~
 printf "\n"
