@@ -9,7 +9,7 @@ How to use This Tool in App Termux ..
 
 3-ls
 
-4-cd mstech
+4-cd pkg.Termux
 
 5-chmod +X *
 
