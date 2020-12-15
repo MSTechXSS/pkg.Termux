@@ -20,3 +20,6 @@ How to use This Tool in App Termux ..
 8-bash mstech.sh
 
 9-Leave the tool for a while until you download and install, then it will tell you when it is finished, You can then install any tool you want and you won't face any problem
+
+10- You can use rooted tools by moving them along the tool's path and then to ubuntu-in-termux
+
