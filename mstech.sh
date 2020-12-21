@@ -24,7 +24,6 @@ pkg install php -y
 pkg install openssh -y
 pkg install github -y
 pkg install figlet -y
-pkg install git -y
 pkg install python -y
 pkg install python2 -y
 pkg install python3 -y
